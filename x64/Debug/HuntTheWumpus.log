@@ -1,0 +1,4 @@
+﻿  Wumpus.cpp
+c:\users\marcus\documents\visual studio 2015\projects\workspace\332wumpus\huntthewumpus\wumpus.cpp(257): warning C4552: '%': operator has no effect; expected operator with side-effect
+c:\users\marcus\documents\visual studio 2015\projects\workspace\332wumpus\huntthewumpus\wumpus.cpp(292): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HuntTheWumpus.vcxproj -> C:\Users\Marcus\Documents\Visual Studio 2015\Projects\workspace\332Wumpus\x64\Debug\HuntTheWumpus.exe
